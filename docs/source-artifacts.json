@@ -1,0 +1,26 @@
+{
+  "preservation": "byte-for-byte copies; no execution or editing",
+  "artifacts": [
+    {
+      "original_filename": "breast_cancer_version4.ipynb",
+      "repository_path": "notebooks/breast_cancer_version4.ipynb",
+      "size_bytes": 20559087,
+      "sha256": "6d4f5e8858ac5b88967b252bc92edfe56cd5ef90c957f6e429f4ad2fb778a2a4",
+      "tracked": true
+    },
+    {
+      "original_filename": "Data science report.pdf",
+      "repository_path": "reports/Data science report.pdf",
+      "size_bytes": 2879209,
+      "sha256": "eec7b967c10b93213291c68a24ce8889a24bc2da209218558463ce2b298d1e02",
+      "tracked": true
+    },
+    {
+      "original_filename": "Data Science Presentation (1).mkv",
+      "repository_path": "presentation/Data Science Presentation (1).mkv",
+      "size_bytes": 100996292,
+      "sha256": "6eb88827688c77eb0cbc2b345ad1f78a3857054bff5572a32e9b8d86f774e9e1",
+      "tracked": false
+    }
+  ]
+}

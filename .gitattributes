@@ -1,0 +1,4 @@
+*.ipynb -text
+*.pdf binary
+*.png binary
+*.mkv binary

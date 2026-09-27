@@ -1,0 +1,20 @@
+[
+  {
+    "file": "class-distribution.png",
+    "source_notebook_cell_one_based": 3,
+    "source_output_index_zero_based": 1,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration"
+  },
+  {
+    "file": "pca-projection.png",
+    "source_notebook_cell_one_based": 37,
+    "source_output_index_zero_based": 0,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration"
+  },
+  {
+    "file": "logistic-regression-confusion-matrix.png",
+    "source_notebook_cell_one_based": 60,
+    "source_output_index_zero_based": 10,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration"
+  }
+]
